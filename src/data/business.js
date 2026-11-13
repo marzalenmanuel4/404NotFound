@@ -17,7 +17,7 @@ export const BUSINESS = {
 
     // TODO: URLs completas de tus perfiles. Las que queden vacías no se muestran.
     social: {
-        github: 'https://github.com/Sign0rEnmanuel',
+        github: 'https://github.com/marzalenmanuel4',
         linkedin: 'https://www.linkedin.com/in/marzalenmanuel4/',
         instagram: '',
     },
@@ -25,7 +25,7 @@ export const BUSINESS = {
     // Cifras opcionales para "Por qué elegirnos". Déjalas en null hasta tener datos reales y verificables.
     stats: {
         projectsDelivered: null,
-        yearsCoding: null,
+        yearsCoding: 3,
     },
 }
 
