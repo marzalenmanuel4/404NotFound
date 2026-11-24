@@ -9,7 +9,7 @@ export const BUSINESS = {
     siteUrl: 'https://404notfound.dev',
 
     // El formulario de contacto arma un mailto: hacia esta dirección.
-    email: '404notfound.webdeveloper@gmail.com',
+    email: 'contato@404notfound.dev',
 
     // Número de WhatsApp en formato internacional, solo dígitos (ej. '5511999999999').
     // Si queda vacío, el botón "Enviar por WhatsApp" no se muestra.
