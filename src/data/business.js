@@ -9,7 +9,7 @@ export const BUSINESS = {
     siteUrl: 'https://404notfound.dev',
 
     // El formulario de contacto arma un mailto: hacia esta dirección.
-    email: 'marzalenmanuel4@gmail.com',
+    email: '404notfound.webdeveloper@gmail.com',
 
     // Número de WhatsApp en formato internacional, solo dígitos (ej. '5511999999999').
     // Si queda vacío, el botón "Enviar por WhatsApp" no se muestra.
@@ -19,7 +19,7 @@ export const BUSINESS = {
     social: {
         github: 'https://github.com/marzalenmanuel4',
         linkedin: 'https://www.linkedin.com/in/marzalenmanuel4/',
-        instagram: '',
+        instagram: 'https://www.instagram.com/404notfound.developer/',
     },
 
     // Cifras opcionales para "Por qué elegirnos". Déjalas en null hasta tener datos reales y verificables.
