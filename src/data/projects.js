@@ -17,20 +17,6 @@
  */
 export const PROJECTS = [
     {
-        id: 'admin-dinero',
-        name: 'Admin Dinero',
-        category: 'webapp',
-        description: {
-            'pt-BR':
-                'Classifica suas receitas e despesas por função (necessidade, investimento ou consumo) e mede o retorno real de cada projeto.',
-            es: 'Clasifica tus ingresos y egresos por función (necesidad, inversión o consumo) y mide el retorno real de cada proyecto.',
-            en: 'Sorts your income and expenses by purpose (needs, investment or spending) and measures the real return of each project.',
-        },
-        stack: [],
-        url: 'https://managingmoney.tech/',
-        image: '/projects/admin-dinero.webp',
-    },
-    {
         id: 'ilha-areia',
         name: 'Ilha & Areia',
         category: 'landing',
