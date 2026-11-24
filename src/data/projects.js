@@ -17,6 +17,20 @@
  */
 export const PROJECTS = [
     {
+        id: 'crm-seguros',
+        name: 'CRM Seguros',
+        category: 'webapp',
+        description: {
+            'pt-BR':
+                'CRM para agências de seguros de saúde nos EUA: cota com os dados oficiais do Marketplace, organiza a carteira por domicílios fiscais, antecipa renovações e fecha vendas pelo WhatsApp.',
+            es: 'CRM para agencias de seguros de salud en EE. UU.: cotiza con los datos oficiales del Marketplace, organiza la cartera por hogares fiscales, anticipa renovaciones y cierra por WhatsApp.',
+            en: 'CRM for US health insurance agencies: quotes with official Marketplace data, organizes clients by tax household, anticipates renewals and closes sales over WhatsApp.',
+        },
+        stack: [],
+        url: 'https://mycrm.agency/',
+        image: '/projects/crm-seguros.webp',
+    },
+    {
         id: 'ilha-areia',
         name: 'Ilha & Areia',
         category: 'landing',
